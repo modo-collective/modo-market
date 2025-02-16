@@ -119,7 +119,7 @@ export default function ArtistCarousel() {
             </div>
           </CardContent>
           <CardFooter>
-            <Link href={`/modo-marketplace/artist/${artist.id}`} passHref className="w-full">
+            <Link href={`/artist/${artist.id}`} passHref className="w-full">
               <Button className="w-full">Commission Artist</Button>
             </Link>
           </CardFooter>
