@@ -4,7 +4,7 @@ To be integrated with the [complete `Modo` app](https://github.com/modo-collecti
 
 ## Usage
 
-For local debugging, visit [*localhost:3000/buyer*](http://localhost:3000/buyer) or [*localhost:3000/seller*](http://localhost:3000/seller).
+For local debugging, visit [*localhost:3000/buyer*](http://localhost:3000/buyer), [*localhost:3000/seller*](http://localhost:3000/seller) or [*localhost:3000/artist/*](http://localhost:3000/artist/).
 
 ```console
 $ cd src/modo-market
